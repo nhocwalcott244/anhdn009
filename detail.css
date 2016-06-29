@@ -1,0 +1,120 @@
+header{
+    background-color: #ff4488;
+}
+header .col-sm-3 input {
+    padding-top: 20px;
+    border-style: none none solid none;
+    background-color: #ff4488;
+}
+header a{
+    font-size: large;
+}
+header .col-sm-6 h1{
+    text-align: center;
+    color: #ffffff;
+}
+header .col-sm-3 img{
+    padding-top: 20px;
+    padding-left: 10px;
+    float: right;
+}
+#footer{
+
+    margin-top: 150px;
+    background-color: #ff4488;
+}
+#footer h1{
+    text-align: center;
+    color: #ffffff;
+}
+#footer p{
+    text-align: center;
+    color: #ffffff;
+}
+#footer a{
+    color: #ffffff;
+}
+#content{
+    background-color: #f7f3f3;
+}
+#content .col-sm-8{
+    background-color: #ffffff;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+#content .hot p{
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+#content .hot{
+    position: absolute;
+}
+#content h1{
+    color: #ff4488;
+}
+#content .title{
+    margin-top: 60px;
+}
+#content li{
+    padding-top:10px ;
+    color: #ff4488;
+}
+#content a{
+    color: #ff4488;
+}
+.article{
+    padding-left: 60%;
+    padding-top: 20px;
+}
+.article p{
+    color: #8c8c8c;
+}
+#content .anhbia img{
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.col-sm-1 img{
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+#comment{
+    margin-top: 60px;
+}
+#khung input{
+    width: 640px;
+    height: 60px;
+}
+#khung button{
+    width: 60px;
+    height: 60px;
+}
+.listcomment .col-sm-10 .row{
+    margin-top: 30px;
+    padding-left: 10px;
+    border: 1px solid #8c8c8c;
+    border-radius: 5%;
+}
+.listcomment .col-sm-1 img{
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #8c8c8c;
+}
+#othernew{
+    margin-top: 30px;
+}
+#othernew img{
+    padding-top: 20px;
+}
+#content .col-sm-4{
+    padding-top: 30px;
+}
+time{
+    padding-top: 10px;
+}
+.listothernew .row{
+    margin-left: 10px;
+}

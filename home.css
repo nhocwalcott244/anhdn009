@@ -1,0 +1,144 @@
+#header {
+    background: #ff4488;
+}
+#header .col-sm-2 input {
+    border-style: none none solid none;
+    background-color: #ff4488;
+}
+.col-sm-5 h2{
+    color: #ffffff;
+    margin-left: 130px;
+
+}
+#header img{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.col-sm-4 input{
+    margin-top: 10px;
+    margin-left: 2in;
+    border-style: none;
+    color: #ff4488;
+}
+.navbar {
+    margin-left: 2in;
+    margin-right: 2in;
+}
+#imgtop a{
+    color: #ffffff;
+}
+#imgtop .img1{
+    background-image: url("anh/anh1.jpg");
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+#imgtop p{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #ffffff;
+}
+#imgtop img{
+    margin-left: 20px;
+    margin-top: 2.2in;
+}
+#imgtop .img2{
+    background-image: url("anh/anh2.jpg");
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+#imgtop .img3{
+    background-image: url("anh/anh3.jpg");
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+#imgtop .img4{
+    background-image: url("anh/anh4.jpg");
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+#bannerngang img{
+    margin-right: 2.1in;
+    margin-left: 2.4in;
+    margin-top: 20px;
+    width: 9.4in;
+}
+.col-sm-2.empty {
+    background-color: #ffffff;
+}
+.row .col-sm-2 .listhr img{
+    padding-top: 5px;
+    padding-right: 5px;
+    width: 50px;
+    height: 50px
+}
+#content .row {
+    background-color: #f7f3f3;
+}
+#content .row .col-sm-2 {
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+.col-sm-2 a{
+    color: #080808;
+}
+#content .col-sm-4 a{
+    color: #ff4488;
+}
+#content .col-sm-4 {
+    margin-top: 20px;
+    background-color: #ffffff;
+    margin-left: 10px;
+}
+#content .col-sm-4 img{
+    width: 100%;
+}
+tr.listhr {
+    border: ridge;
+}
+.col-sm-6 {
+    height: 275px;
+    background-color: #ffffff;
+}
+.col-sm-6 img{
+    width: 150px;
+    height: 150px;
+}
+.col-sm-2 .banner1 img{
+    width: 100%;
+    height: 640px;
+}
+#post .col-sm-3{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: #ffffff;
+}
+#post .col-sm-3 img.hot{
+    padding-top: 5px;
+}
+#post .col-sm-3 img.title{
+    padding-top: 30px;
+}
+#post .col-sm-2 img{
+    width: 100%;
+    height: 100%;
+}
+#footer{
+    margin-top: 50px;
+    background-color: #ff4488;
+}
+#footer h1{
+    text-align: center;
+    color: #ffffff;
+}
+#footer p{
+    text-align: center;
+    color: #ffffff;
+}
+hr{
+color: #080808;
+}

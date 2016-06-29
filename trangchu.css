@@ -1,0 +1,131 @@
+header{
+    background-color: #ff4488;
+}
+header .col-sm-3 input {
+    padding-top: 20px;
+    border-style: none none solid none;
+    background-color: #ff4488;
+}
+header a{
+    font-size: large;
+}
+header .col-sm-6 h1{
+    text-align: center;
+    color: #ffffff;
+}
+header .col-sm-3 img{
+    padding-top: 20px;
+    padding-left: 10px;
+    float: right;
+}
+#bannerngang {
+    margin-top: 20px;
+}
+#content .col-sm-3 .bannerdoc2 img{
+    width: 2.5in;
+    padding-top: 20px;
+}
+.noidung {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    font-size: 14px;
+}
+.noidung p{
+    font-family: fantasy;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+#bannerngang .col-sm-3 img{
+    width: 100%;
+    height: 100%;
+}
+#bannerngang .col-sm-3 a{
+    color: #ffffff;
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    right: 10%;
+}
+#content .col-sm-9 a{
+    color: #080808;
+    font-family: Monaco;
+}
+#content .col-sm-3 .banner img{
+    margin-top: 20px;
+    width: 3in;
+    height: 7in;
+}
+#content .col-sm-3 .banner{
+    color: #f7f3f3;
+}
+#content{
+    background-color: #f7f3f3;
+}
+#content .col-sm-3 .row{
+    background-color: #ffffff;
+}
+#content .col-sm-5{
+    margin-top:  20px;
+    background-color: #ffffff;
+}
+#content .col-sm-5 img{
+    width: 100%;
+    height: 100%;
+}
+#content .col-sm-3 .banner{
+    margin-left: 20px;
+    background-color:#f7f3f3;
+}
+#baiviet .col-sm-4{
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: #ffffff;
+}
+#baiviet .hot img{
+    padding-top: 5px;
+    padding-left: 0px;
+}
+#baiviet .hot p{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+#baiviet .title img{
+    width: 100%;
+    height: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+#baiviet .col-sm-4 .list{
+    padding-top: 30px;
+}
+#baiviet .col-sm-4 .list a{
+    padding-left: 20px;
+    color: #ff4488;
+}
+#baiviet .col-sm-4 .list li{
+
+    padding-top: 20px;
+    color: #080808;
+}
+#baiviet .col-sm-3 img{
+    width: 3in;
+}
+#footer{
+    margin-top: 50px;
+    background-color: #ff4488;
+}
+#footer h1{
+    text-align: center;
+    color: #ffffff;
+}
+#footer p{
+    text-align: center;
+    color: #ffffff;
+}
+#footer a{
+    color: #ffffff;
+}
